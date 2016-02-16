@@ -1,0 +1,1 @@
+("~/.emacs.d/" "~/src/linux-kernel/" "~/c-demo-project/" "~/Atheros-CSI-Tool-UserSpace-APP/" "~/Atheros-CSI-Tool-master/")
